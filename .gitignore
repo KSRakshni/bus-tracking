@@ -1,2 +1,16 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
-*
+# Python
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# React
+node_modules/
+build/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
